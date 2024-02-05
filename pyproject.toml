@@ -130,6 +130,8 @@ packages = [
 python = ">=3.8.1,<4.0"
 icalendar = ">=5"
 jinja2 = ">=3"
+python-dateutil = "^2.8.2"
+recurring-ical-events = "^2.1.2"
 
 [tool.poetry.group.dev.dependencies]
 
