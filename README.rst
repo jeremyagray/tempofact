@@ -1,4 +1,4 @@
-.. *****************************************************************************
+.. ***************************************************************************
 ..
 .. tempofact, printable time artifacts
 ..
@@ -8,24 +8,17 @@
 ..
 .. SPDX-License-Identifier: GPL-3.0-or-later
 ..
-.. *****************************************************************************
+.. ***************************************************************************
 
-tempofact
-=========
+===========
+ tempofact
+===========
 
 tempofact generates wall calendars and other printable, time-related
 artifacts for humans that have far superior digital versions.
 
-..
-   .. image:: https://badge.fury.io/py/sigcalc.svg
-      :target: https://badge.fury.io/py/sigcalc
-      :alt: PyPI Version
-   .. image:: https://readthedocs.org/projects/sigcalc/badge/?version=latest
-      :target: https://sigcalc.readthedocs.io/en/latest/?badge=latest
-      :alt: Documentation Status
-
 Installation
-------------
+============
 
 Install tempofact with pip::
 
@@ -39,7 +32,7 @@ or with poetry::
 generated LaTeX code into PDFs.
 
 Copyright and License
----------------------
+=====================
 
 SPDX-License-Identifier: `GPL-3.0-or-later <https://spdx.org/licenses/GPL-3.0-or-later.html>`_
 
@@ -61,6 +54,6 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see https://www.gnu.org/licenses/.
 
 Author
-------
+======
 
 `Jeremy A Gray <gray@flyquackswim.com>`_
